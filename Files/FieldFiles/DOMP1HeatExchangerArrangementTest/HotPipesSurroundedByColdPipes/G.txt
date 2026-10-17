@@ -1,0 +1,260 @@
+field G
+nCells 717040
+
+internalField uniform 0.0
+
+boundaryField
+{
+  top
+  {
+    type zeroGradient
+    value uniform 0.0
+  }
+
+  bottom
+  {
+    type zeroGradient
+    value uniform 0.0
+  }
+
+  north
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  south
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  east
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  west
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle11
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle12
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle13
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle14
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle15
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle16
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle21
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle22
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle23
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle24
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle25
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle26
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle31
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle32
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle33
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle34
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle35
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle36
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle41
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle42
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle43
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle44
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle45
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle46
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle51
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle52
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle53
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle54
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle55
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle56
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle61
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle62
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle63
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle64
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle65
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+  circle66
+  {
+    type marshakRadiation
+    value uniform 0.0
+  }
+
+}
